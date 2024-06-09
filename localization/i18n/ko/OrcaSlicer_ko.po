@@ -14225,7 +14225,7 @@ msgstr ""
 "한 테스트 결과는 삭제됩니다."
 
 msgid ""
-"*We recommend you to add brand, materia, type, and even humidity level in "
+"*We recommend you to add brand, material, type, and even humidity level in "
 "the Name"
 msgstr "*이름에 브랜드, 재질, 유형, 습도까지 추가하는 것이 좋습니다"
 

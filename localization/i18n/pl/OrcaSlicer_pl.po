@@ -14850,7 +14850,7 @@ msgstr ""
 "ponownie. Niewłaściwy wynik testu zostanie odrzucony."
 
 msgid ""
-"*We recommend you to add brand, materia, type, and even humidity level in "
+"*We recommend you to add brand, material, type, and even humidity level in "
 "the Name"
 msgstr ""
 "*Zalecamy dodanie do nazwy marki i typu filamentu, a nawet poziomu "

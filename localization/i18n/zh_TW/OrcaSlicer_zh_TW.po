@@ -13937,7 +13937,7 @@ msgid ""
 msgstr "部分校準失敗！ 您可以清潔列印板並重試。 失敗的測試結果將不會儲存。"
 
 msgid ""
-"*We recommend you to add brand, materia, type, and even humidity level in "
+"*We recommend you to add brand, material, type, and even humidity level in "
 "the Name"
 msgstr "*我們建議您在名稱中加入品牌、材料、類型，甚至濕度水平。"
 
